@@ -1,0 +1,119 @@
+body{
+    background-color: hsl(42, 98%, 81%);
+} 
+.form{
+    background-color: white;
+    height: 500px;
+    width: 80%;
+    padding: 30px;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 3%;
+
+    
+}.shop{
+    color: #469DA4;
+    margin-top: -3%;
+    margin-left: 7%;
+}
+.btn{
+    background-color: #13a6b1;
+    padding: 13px 130px 8px 170px;
+    border: #469DA4;
+    border-radius: 5px;
+    color: white;
+    margin-left:5% ;
+    margin-top: 1%;
+
+}
+.image{
+    margin-left: 40%;
+    margin-bottom: 3%;
+    margin-top: 1%;
+
+      
+}
+#passwad{
+   
+    background-color: #fee19d;
+     padding: 10px 90px;
+     margin-top: 2%;
+     border-radius:5px ;
+     margin-left: 5%;
+}
+#mail{
+    background-color: rgb(226, 132, 198);
+     padding: 10px 90px;
+     margin-top: 1%;
+     border-radius: 5px;
+     margin-left: 5%;
+
+
+}
+.Email{
+    margin-left: 5%;
+    margin-top: -6%;
+}
+
+.pswd{
+    margin-top:6%;
+    margin-left: 5%;
+
+}
+p span{
+    color: #469DA4;
+}
+.sign p{
+    margin-left: 70%;
+    margin-top: -40%;
+    
+}
+.back{
+margin-top: 3%;
+margin-left: 5%;
+}
+.pass{
+    margin-left: 25%;
+    margin-top: -1.8%;
+}
+.keep{
+     margin-left: 0%; 
+}
+.or{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#keep{
+    margin-left: 2%;
+}
+h1{
+    margin-left: 5%;
+}
+.check{
+    margin-left: 3%;
+
+}
+img{
+    margin-top: 15%;
+    width: 350px;
+    height: 200px;
+    margin-left: 50%;
+    
+}
+.socials{
+    display: flex;
+    margin-left: 8%;
+    margin-top: -1%;
+    /* padding: 5px; */
+  
+}.facebook{
+    padding: 10px;
+    
+}.google{
+    padding: 10px;
+    
+}.insta{
+    padding: 10px;
+    margin-top: -1px;
+    border-radius: 50px;
+}
